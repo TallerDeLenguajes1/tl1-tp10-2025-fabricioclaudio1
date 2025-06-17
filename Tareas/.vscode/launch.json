@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/Tareas/bin/Debug/net8.0/Tareas.dll",
+            "program": "${workspaceFolder}/bin/Debug/net8.0/Tareas.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/Tareas",
+            "cwd": "${workspaceFolder}",
             "console": "integratedTerminal",
             "stopAtEntry": false
         },
