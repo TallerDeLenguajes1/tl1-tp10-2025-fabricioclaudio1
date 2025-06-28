@@ -5,7 +5,7 @@ using EspacioTarea;
 public static class TareasService
 {
 
-  public static async Task<List<Tarea>> ObtenerTareasAsing()
+  public static async Task<List<Tarea>> ObtenerTareasAsin()
   {
     HttpClient client = new HttpClient();
 
@@ -17,5 +17,5 @@ public static class TareasService
     return listTarea;
   }
 
-
 }
+
