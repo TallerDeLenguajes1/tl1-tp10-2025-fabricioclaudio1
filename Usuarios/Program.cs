@@ -19,3 +19,4 @@ if (!File.Exists(pathArchivo))
     File.WriteAllText(pathArchivo, jsonString);
 }
 
+Console.WriteLine("hola  pruebaa");
